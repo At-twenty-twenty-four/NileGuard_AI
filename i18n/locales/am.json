@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": " dashboard",
+    "threats": "ስጋቶች",
+    "incidents": "ክስተቶች",
+    "intelligence": "ስለስጋቶች መረጃ",
+    "response": "AI ምላሽ",
+    "simulator": "ዲጂታል መንታ",
+    "settings": "ቅንብሮች"
+  },
+  "dashboard": {
+    "title": "EthioShield የሳይበር ስጋት ስለስጋቶች መረጃ",
+    "subtitle": "በ SentinelAI-X የተሳካ ለውጥ ክትትል",
+    "activeThreats": "ሕያዋን ስጋቶች",
+    "criticalAlerts": "ወሳኝ ማንቂያዎች",
+    "detectionRate": "የምርመራ ፍጥነት",
+    "systemStatus": "የስርአት ሁኔታ"
+  },
+  "threats": {
+    "title": "ስጋት ስለስጋቶች መረጃ ማእከል",
+    "actors": "ስጋት ተዋናዎች",
+    "campaigns": "ያሉ ንቅሉናዎች",
+    "malware": "ችግር ዝርዝር",
+    "vulnerabilities": "ተሐዋሳገዋ ሴቶች"
+  },
+  "incidents": {
+    "title": "የደህንነት ክስተቶች",
+    "all": "ሁሉም ክስተቶች",
+    "open": "ክፍት",
+    "investigating": "ምርመራ ላይ",
+    "contained": "ተከላይ",
+    "resolved": "ተፈትሯል",
+    "type": "ክስተት ዓይነት",
+    "severity": "ጠንከር",
+    "status": "ሁኔታ",
+    "created": "ተጠይቋል"
+  },
+  "response": {
+    "title": "SentinelAI-X ራሱን ችሎ ምላሽ",
+    "actions": "ራሱን ችሎ እርምጃዎች",
+    "pending": "በመጠበቅ ላይ",
+    "executing": "ግብ ላይ",
+    "completed": "ተጠናቋል",
+    "actionType": "ድርጊት ዓይነት",
+    "confidence": "ዘላ ደረጃ"
+  },
+  "auth": {
+    "login": "ገባ",
+    "signup": "ነፃ ሞዶ",
+    "logout": "ወጣ",
+    "email": "ኢሜይል አድራሻ",
+    "password": "ይለፋል",
+    "confirmPassword": "ይለፋስ አረጋግጥ",
+    "signIn": "ገባ",
+    "signUp": "ተቋም ያድርግ",
+    "noAccount": "ተቋም እንደሌለህ?",
+    "haveAccount": "ቀደም ሲል ተቋም ያለህ?"
+  },
+  "common": {
+    "loading": "በመጫወጥ ላይ...",
+    "error": "ስህተት",
+    "success": "ስኬት",
+    "cancel": "መሰረዝ",
+    "save": "ማዳን",
+    "delete": "ማጣ",
+    "edit": "ማርሚት",
+    "close": "ዝጋ",
+    "language": "ቋንቋ"
+  }
+}

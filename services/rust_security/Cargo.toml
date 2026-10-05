@@ -1,0 +1,29 @@
+[package]
+name = "ethioshield-security"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+actix-rt = "2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1", features = ["full"] }
+sqlx = { version = "0.7", features = ["postgres", "runtime-tokio", "uuid"] }
+uuid = { version = "1.0", features = ["v4", "serde"] }
+chrono = { version = "0.4", features = ["serde"] }
+hmac = "0.12"
+sha2 = "0.10"
+base64 = "0.21"
+hex = "0.4"
+rand = "0.8"
+dotenv = "0.15"
+log = "0.4"
+env_logger = "0.10"
+
+# PQC Libraries (placeholder - in production use liboqs)
+# liboqs = "0.7"
+
+[profile.release]
+opt-level = 3
+lto = true

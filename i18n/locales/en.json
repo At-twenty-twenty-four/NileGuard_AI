@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "threats": "Threats",
+    "incidents": "Incidents",
+    "intelligence": "Intelligence",
+    "response": "AI Response",
+    "simulator": "Digital Twin",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "EthioShield Cyber Threat Intelligence",
+    "subtitle": "Real-time monitoring powered by SentinelAI-X",
+    "activeThreats": "Active Threats",
+    "criticalAlerts": "Critical Alerts",
+    "detectionRate": "Detection Rate",
+    "systemStatus": "System Status"
+  },
+  "threats": {
+    "title": "Threat Intelligence Hub",
+    "actors": "Threat Actors",
+    "campaigns": "Active Campaigns",
+    "malware": "Malware Database",
+    "vulnerabilities": "Vulnerabilities"
+  },
+  "incidents": {
+    "title": "Security Incidents",
+    "all": "All Incidents",
+    "open": "Open",
+    "investigating": "Investigating",
+    "contained": "Contained",
+    "resolved": "Resolved",
+    "type": "Incident Type",
+    "severity": "Severity",
+    "status": "Status",
+    "created": "Created"
+  },
+  "response": {
+    "title": "SentinelAI-X Autonomous Response",
+    "actions": "Autonomous Actions",
+    "pending": "Pending",
+    "executing": "Executing",
+    "completed": "Completed",
+    "actionType": "Action Type",
+    "confidence": "Confidence Score"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "language": "Language"
+  }
+}
